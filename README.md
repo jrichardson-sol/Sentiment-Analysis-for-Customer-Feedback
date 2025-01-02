@@ -20,7 +20,7 @@ A simple sentiment analysis tool that classifies customer feedback into Positive
 ### Installation
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analyzer.git
+   git clone https://github.com/jrichardson-sol/Sentiment-Analysis-for-Customer-Feedback
    cd sentiment-analyzer
 Install the required Python libraries:
 
